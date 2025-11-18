@@ -1,4 +1,4 @@
-\\c program for receving an input from the user of runtime and printing it
+//c program for receving an input from the user of runtime and printing it
 #include <stdio.h>
 
 int main() {
