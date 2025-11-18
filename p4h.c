@@ -1,4 +1,4 @@
-//cprogram to calculate the sum of first n natural numbers while loop
+//cprogram to calculate the sum of first n natural numbers do while loop
 #include <stdio.h>
 
 int main() {
